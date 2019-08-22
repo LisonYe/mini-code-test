@@ -1,2 +1,4 @@
 # mini-code-test
-DEMO
+mini code test
+
+by yls
